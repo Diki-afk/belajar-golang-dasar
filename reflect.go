@@ -10,7 +10,7 @@ type Sample struct {
 }
 
 type ContohLagi struct {
-	Name string `required:"true"`
+	Name        string `required:"true"`
 	Description string `required:"true"`
 }
 

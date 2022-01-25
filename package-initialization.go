@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	result :=  database.GetDatabase()
+	result := database.GetDatabase()
 	fmt.Println(result)
 }

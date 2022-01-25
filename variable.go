@@ -22,7 +22,7 @@ func main() {
 
 	var (
 		firstName = "Eko"
-		lastName = "Khannedy"
+		lastName  = "Khannedy"
 	)
 
 	fmt.Println(firstName)

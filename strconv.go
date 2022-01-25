@@ -23,6 +23,6 @@ func main() {
 	value := strconv.FormatInt(1000000, 10)
 	fmt.Println(value)
 
-	valueInt, _ :=  strconv.Atoi("2000000")
+	valueInt, _ := strconv.Atoi("2000000")
 	fmt.Println(valueInt)
 }
