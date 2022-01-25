@@ -4,7 +4,7 @@ import "fmt"
 
 var connection string
 
-func init(){
+func init() {
 	fmt.Println("Init dipanggil")
 	connection = "MySQL"
 }
